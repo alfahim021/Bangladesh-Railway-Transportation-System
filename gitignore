@@ -1,0 +1,29 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+.history/
+
+## Visual Studio folders
+.vs/
+
+## Other
+*.tmp
+*.bak
+*.cache
+*.dbmdl
+*.pdb
+_ReSharper*/
